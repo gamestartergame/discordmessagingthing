@@ -1,0 +1,10 @@
+message sent: 
+test
+times sent: 
+1
+channel id used: 
+1214668823203029103
+discord authorization used(don't share this): 
+ODcwMzYzNzA1NTUwOTcwOTEw.GAtWoR.IFttJirMPn3eNYWen-cBYzq9R8tA8gEL05Wufo
+time started:
+2024-03-05 21:00:42.832749
