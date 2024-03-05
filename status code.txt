@@ -1,5 +1,0 @@
-last message status code: 
-400 from sent message: test
-message was sent to: 1214668823203029103
- last message time:
-2024-03-05 21:00:44.232382
