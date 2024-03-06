@@ -1,5 +1,0 @@
-last message status code: 
-200 from sent message: yes
-message was sent to: 1214631421377904680
- last message time:
-2024-03-06 00:25:22.924867
